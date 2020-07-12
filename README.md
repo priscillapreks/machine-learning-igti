@@ -21,7 +21,7 @@ Validação cruzada.
 Sintonia de hiperparâmetros.    
 
 **Modulo 4 | Metodologias de Aprendizado**    
-Exploraçãoe generalização.    
-Algoritmos supervisionados,não-supervisionados e treinamento por reforço.    
+Exploração e generalização.    
+Algoritmos supervisionados, não-supervisionados e treinamento por reforço.    
 
-**Desafio Final**
+

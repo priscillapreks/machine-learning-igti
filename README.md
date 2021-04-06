@@ -1,4 +1,4 @@
-## Bootcamp Analista de Machine Learning IGTI 
+## Machine Learning Bootcamp | IGTI 
     
 
 **Modulo 1 | Fundamentos**     
